@@ -3,7 +3,7 @@
 ## Adım 1: Gerekli Yazılımları İndirin
 
 1. [VirtualBox](https://www.virtualbox.org/) uygulamasını indirin ve bilgisayarınıza kurun.
-2. [Ubuntu 22.04 ISO]([https://ubuntu.com/download/desktop](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso)) dosyasını indirin.
+2. [Ubuntu 22.04 ISO](https://releases.ubuntu.com/jammy/ubuntu-22.04.5-desktop-amd64.iso) dosyasını indirin.
 
 ## Adım 2: VirtualBox'ta Yeni Bir Sanal Makine Oluşturun
 
