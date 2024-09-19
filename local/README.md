@@ -15,15 +15,19 @@
 
 ## Adım 3: Bellek (RAM) Ayarları
 
-1. Bellek boyutunu ayarlayın. En az 2048 MB (2 GB) önerilir.
+1. Bellek boyutunu ayarlayın. En az 4096 MB (4 GB) önerilir.
 2. "İleri" butonuna tıklayın.
+
+## Adım 3': Isletme
+
+1.En az 5 isletme olsun
 
 ## Adım 4: Sanal Disk Oluşturun
 
 1. "Yeni bir sanal disk oluştur" seçeneğini seçin ve "İleri"ye tıklayın.
 2. "VDI (VirtualBox Disk Image)" seçeneğini seçin ve "İleri"ye tıklayın.
 3. "Dinamik olarak tahsis edilen" seçeneğini seçin ve "İleri"ye tıklayın.
-4. Disk boyutunu ayarlayın. En az 20 GB önerilir.
+4. Disk boyutunu ayarlayın. En az 30 GB önerilir.
 5. "Oluştur" butonuna tıklayın.
 
 ## Adım 5: ISO Dosyasını Bağlayın
